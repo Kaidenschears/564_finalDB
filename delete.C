@@ -18,9 +18,6 @@ const Status QU_Delete(const string & relation,
 {
 // part 6
 return OK;
-
-
-
 }
 
 
